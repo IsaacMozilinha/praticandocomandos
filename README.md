@@ -2,7 +2,7 @@
 
 <img src="/gif especial para pessoas especiais/20d.gif">
 
-**Música: Reflections by Toshifumi Hinata 🎻 🎵 **
+**Música: Reflections by Toshifumi Hinata 🎻 🎵**
 
 Senhores estou realizando a pratica de utilizar o Git Bash, indo contrário a orientação do nosso querido e respeitado docente que nos instruiu a utilização do GitHub Desktop,
 
