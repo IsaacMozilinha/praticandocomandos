@@ -18,7 +18,9 @@ Porém Senhores, utilizar o GitHub via linha de comando é algo que transcede a 
 **Senhores atenção para os seguintes detalhes:**
 
 Coloque seu usuário do git e E-mail da seguinte forma:
+
 git config --global user.email "you@example.com"
+
 git config --global user.name "Your Name"
 
 Crie um repositório no GitHub
