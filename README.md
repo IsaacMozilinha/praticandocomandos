@@ -28,3 +28,10 @@ git push -u origin main = empurra o arquivo pro github
 clear = Limpa o terminal 
 
 git checkout -b "nome-da-nova-branch" = cria uma nova branch (branch é uma ramificação, você cria ela inicialmente e após o arquivo que irá fazer parte dela, não precisa ser um arquivo novo, as vezes pode ser uma alteração)
+
+git checkout <nome da branch> = Troca a branch 
+
+git merge <nome da branch> = Junta as features das branches
+
+
+
