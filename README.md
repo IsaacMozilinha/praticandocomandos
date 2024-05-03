@@ -24,3 +24,7 @@ git branch -M "main" = Renomeia a branch main
 git remote add origin <link do repositório>  = linka com o GitHub
 
 git push -u origin main = empurra o arquivo pro github
+
+clear = Limpa o terminal 
+
+git checkout -b "nome-da-nova-branch" = cria uma nova branch (branch é uma ramificação, você cria ela inicialmente e após o arquivo que irá fazer parte dela, não precisa ser um arquivo novo, as vezes pode ser uma alteração)
